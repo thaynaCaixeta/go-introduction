@@ -9,5 +9,5 @@ func main() {
 	fmt.Println("3 - Exit")
 
 	var action int
-	fmt.Scanf("%d", &action)
+	fmt.Scan(&action)
 }
